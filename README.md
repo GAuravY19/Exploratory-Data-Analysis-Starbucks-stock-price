@@ -8,7 +8,7 @@
 In this project, I have performed exploratory data analysis (EDA) on Starbucks stock prices to gain insights into the company’s performance in the Index Markets. I have analyzed the stock prices over the past 30 years and identified trends and patterns that can help us understand investors’ sentiment towards Starbucks stocks.
 
 # Section in EDA :-
-<center><img src = 'utility_img/section.png'></img></center>
+<img src = 'utility_img/section.png'></img>
 
 # Tools Used :-
 
